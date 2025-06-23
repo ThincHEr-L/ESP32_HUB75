@@ -1,0 +1,33 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\tao\\esp\\v5.1.2\\esp-idf",
+  "idf.pythonInstallPath": "C:\\Users\\tao\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.toolsPathWin": "C:\\Users\\tao\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "idf.portWin": "COM4",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "freertos.h": "c",
+    "esp32-hub75-matrixpanel-i2s-dma.h": "c",
+    "hub75.h": "c",
+    "task.h": "c",
+    "list.h": "c",
+    "stdio.h": "c",
+    "stdint-gcc.h": "c",
+    "all_task.h": "c",
+    "esp_log.h": "c",
+    "uart.h": "c",
+    "gpio.h": "c",
+    "string.h": "c",
+    "my_cmd.h": "c",
+    "hub75e_hal.h": "c",
+    "functional": "c",
+    "sstream": "c",
+    "regex": "c"
+  }
+}

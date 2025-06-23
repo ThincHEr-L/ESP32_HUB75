@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"freertos.h": "c",
+			"esp32-hub75-matrixpanel-i2s-dma.h": "c",
+			"hub75.h": "c",
+			"task.h": "c",
+			"list.h": "c",
+			"stdio.h": "c",
+			"stdint-gcc.h": "c",
+			"gpio.h": "c",
+			"random": "cpp",
+			"array": "c",
+			"bitset": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"regex": "c",
+			"string": "c",
+			"uart.h": "c",
+			"all_task.h": "c",
+			"esp_log.h": "c"
+		}
+	}
+}

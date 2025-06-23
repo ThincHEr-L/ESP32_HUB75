@@ -1,0 +1,10 @@
+idf_component_register(SRCS "hub75.cpp"
+                    SRCS "ESP32-HUB75-MatrixPanel-I2S-DMA.cpp"
+                    SRCS "ESP32-HUB75-MatrixPanel-leddrivers.cpp"
+                    SRCS "image.c"
+                    SRCS "include/platforms/esp32s3/gdma_lcd_parallel16.cpp"
+                    INCLUDE_DIRS "include/platforms/esp32s3"
+                    INCLUDE_DIRS "include/platforms"
+                    INCLUDE_DIRS "include"
+                    PRIV_REQUIRES driver
+                    PRIV_REQUIRES esp_lcd)
